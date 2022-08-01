@@ -1,5 +1,5 @@
 
-import 'package:aprenda_dart/src/home/home_page.dart';
+import 'package:aprenda_dart/src/screens/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 class AppWidget extends StatelessWidget {
@@ -8,11 +8,12 @@ class AppWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Aprenda Dart',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomePage(title: 'Aprenda Python'),
+      home: const HomePage(),
     );
   }
 }
