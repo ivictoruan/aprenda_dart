@@ -2,6 +2,7 @@ import 'package:aprenda_dart/src/shared/widgets/content_widget.dart';
 import 'package:flutter/material.dart';
 
 List<Map<String, Object>> basicContent = [
+  
   {
     'icon': 'https://iconape.com/wp-content/files/rc/10524/png/settings.png',
     'titleContent': 'Configuração Dart',
@@ -19,12 +20,12 @@ List<Map<String, Object>> basicContent = [
   {
     'icon':
         'https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png',
-    'titleContent': 'Hello, Dart',
+    'titleContent': 'Hello, Dart!',
     'contentWidget': Scaffold(
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Colors.black.withOpacity(0.85),
-        title: const Text('Configuração Dart'),
+        title: const Text('Hello, Dart!'),
       ),
       body: Column(
         children: const [Text('Conteúdo sobre Hello Dart')],
@@ -36,7 +37,7 @@ List<Map<String, Object>> basicContent = [
         'https://img1.gratispng.com/20180925/th/kisspng-logo-font-brand-product-fileantu-org-kde-plasma-binaryclock-svg-wikimed-5baa5a4452fec1.37510502153789088434.jpg',
     'titleContent': 'Numéros',
     'contentWidget': const ContentWidget(
-        titleAppBar: 'Hello, Dart',
+        titleAppBar: 'Numéros',
         theoryWidget: Text('shit1'),
         exercisesWidget: Text('shit2')),
   },
@@ -151,26 +152,27 @@ const List<Map<String, String>> advancedContent = [
 
 const List<Map<String, Object>> drawerContent = [
   {
-    'icon': Icons.eco_rounded,
-    'titleContent': 'Conteúdos sobre Dart',
+    'titleContent': 'Documentação Dart',
+    'icon': Icons.code,
   },
   {
+    'titleContent': 'Mais Exercícios',
     'icon': Icons.eco_rounded,
-    'titleContent': 'Conteúdos sobre Dart',
   },
   {
-    'icon': Icons.eco_rounded,
-    'titleContent': 'Conteúdos sobre Dart',
+    'titleContent': 'Aprenda Flutter',
+    'icon': Icons.flutter_dash,
   },
   {
-    'icon': Icons.eco_rounded,
-    'titleContent': 'Conteúdos sobre Dart',
+    'titleContent': 'Compartilhar',
+    'icon': Icons.share,
   },
   {
-    'icon': Icons.eco_rounded,
-    'titleContent': 'Conteúdos sobre Dart',
+    'titleContent': 'Avaliar o Aplicativo',
+    'icon': Icons.comment,
   },
 ];
+
 
 
 // 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80',
