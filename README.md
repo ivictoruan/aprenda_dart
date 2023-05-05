@@ -1,65 +1,36 @@
-# Aprendar Dart! 
+# 📱 Aprenda Dart
 
-![Licença](https://img.shields.io/badge/license-MIT-brightgreen)
+## 📝 About the App
 
-## About
+"Aprenda Dart" is an interactive programming learning platform designed to assist users in learning the Dart programming language. The app is designed to be accessible to both beginners and users with prior programming experience.
 
-<p align="center">
-Aprenda Dart tem como o intuito auxiliar na aprendizagem da linguagem de programação Dart.              Trazendo código de exemplos explicações teóricas e exercícios para a prática sobre determinado tema e assunto da linguagem.
- Isso não é um guia completo e vasto sobre Dart, apenas o necessário para que já se possa começar a ler e escrever scripts básicos e intermediários. É recomendado para aqueles que tem uma experiênci abásica em programação, mesmo que não seja obrigatório!
-</p>
+## 📚 Features
 
+The app includes the following features:
 
-## Table of Contents
-=================
+- [ ] Clear theoretical explanations of Dart topics and concepts
+- [ ] Practical code examples to illustrate the concepts
+- [ ] Interactive exercise section to practice programming skills
+- [ ] Automatic checking of exercise solutions with immediate feedback
+- [ ] Frequently asked questions section
+- [ ] Glossary of technical terms
+- [ ] List of online resources for additional reference
 
-   * [About](#about)
-   * [Table of Contents](#table-of-contents)
-   * [Project Description](#-project-description)
-   * [Prerequisites](#-prerequisites)
-   * [Installation](#-installation)
-   * [Technologies](#-technologies)
-   * [Author](#-author)
+## 📱 Platform
 
----
+"Aprenda Dart" must me available for Android
 
-## 💻 Project Description
-(add project description!)
-<!-- The project consists of a grocery store delivery developed intending solving custumers problems around purchase basic items like rice, beans, pasta, etc...
-The application has an API that is being developed together this project where I'll to make avalieble coming soon 🙃 -->
+## 📝 Prerequisites
 
-### Screenshots:
-(add screenshots!)
-<!-- 
-<table align="center">
-  <tr>
-    <td>Home Screen</td>
-    <td> + Home</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot_1.png" width=250></td>
-    <td><img src="screenshots/screenshot_3.png" width=250></td>
-  </tr>
-  <tr>
-    <td>Store Screen</td>
-    <td> + Store</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/screenshot_4.png" width=250></td>
-    <td><img src="screenshots/screenshot_5.png" width=250></td>
-  </tr>
-   <tr>
-    <td>Account Screen</td>
-    <td>More Screen</td>
-  </tr>
-    <tr>
-    <td><img src="screenshots/screenshot_6.png" width=250></td>
-    <td><img src="screenshots/screenshot_8.png" width=250></td>
-  </tr>
+To use the "Aprenda Dart" app, it is recommended that the user have basic programming experience, although it is not required.
 
- </table>
+## 🚀 Getting Started
 
---- -->
+To get started with the "Aprenda Dart" app, simply download it from the App Store or Google Play Store, install it on your device, and follow the on-screen instructions.
+
+## 📝 Contribution
+
+If you wish to contribute to the development of the "Aprenda Dart" app, please submit a pull request with your changes. We will be happy to review and incorporate your improvements.
 
 <a name="prerequisites"></a>
 ## ⚙️ Prerequisites
@@ -106,7 +77,7 @@ $ flutter run
 href="https://www.youtube.com/channel/UCYGTHmRH98FPXdnACHAmTjg">
   <sub>
     <b>
-    👀 Visite meu canal no Youtube.
+    👀 See my chanel on youtube / Visite meu canal no Youtube!
     </b>
   </sub>
 </a>
@@ -116,6 +87,16 @@ href="https://www.youtube.com/channel/UCYGTHmRH98FPXdnACHAmTjg">
 
 Developed with 🥵 by Victor Ruan Diniz Pereira
 <br>
-Science and Techology student precipitated in Computer Engineering from the Federal University of Maranhão 
+Science and Techology student precipitated in Computer Engineering from the Federal University of Maranhão
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Ruan%20Diniz%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivictoruan/)](https://www.linkedin.com/in/ivictoruan/)
+
+
+<div align="center">
+
+## 📧 Contact
+
+[![Email](https://img.shields.io/badge/Email-victorruan135@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorruan135@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivictoruan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivictoruan)
+[![GitHub](https://img.shields.io/badge/GitHub-ivictoruan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivictoruan)
+
+</div>
